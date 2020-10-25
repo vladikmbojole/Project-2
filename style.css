@@ -1,0 +1,28 @@
+  body {
+    background: #b1abab;
+  }
+  .quote-container {
+    font-size: 40px;
+    height: 500px;
+    width: 1000px;
+    margin:0 auto;
+    text-align: center;
+    background: #b1abab; 
+  }
+  #generate-btn {
+    color: white !important;
+    background: #606a7e !important;
+    border-color: #425c72 !important;
+    cursor: pointer;
+    font-size: 1.5rem;
+    padding: 0.5rem 1rem;
+  }
+  #generate-btn:hover {
+    background: #b1abab !important;
+    border-color: #b1abab !important;
+    color: #333333 !important;
+  }
+  .author {
+    font-size: 26px;
+    color: #1f302e;
+  }
